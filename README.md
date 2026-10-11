@@ -1,7 +1,8 @@
 # undervolts
 
-***this hosts my personal CPU (7700x) & GPU (6950XT) undervolts. 
-settings & results may vary depending on several factors,
+<sup>silicone lottery loser</sup>  
+***this hosts my personal CPU (7700x) & GPU (6950XT) undervolts.***  
+***settings & results may vary depending on several factors, 
 as well as your BIOS depending on manufacturer***
 > [!WARNING]
 > i am **NOT** responsible for any crashes, failures, or any harm caused to your components. follow at your own discretion
@@ -74,12 +75,13 @@ as well as your BIOS depending on manufacturer***
 **Clockspeed and Voltage**
 |option|value|
 |-|-|
-|Max. GPU Clock (MHz)|2550MHz|
+|Max. GPU Clock (MHz)|2350MHz|
 |Min. GPU Clock (MHz)|1450MHz|
-|Max. VRAM Clock (MHz)|2350MHz|
+|Max. VRAM Clock (MHz)|2300MHz|
 |Min. VRAM Clock (MHz)|1348MHz|
-|GPU voltage offset (mV)|-80|
-<img width="533" height="156" alt="image" src="https://github.com/user-attachments/assets/aee24060-6051-4f62-9eb2-1b74adebac19" />  
+|GPU voltage offset (mV)|-60|
+<img width="535" height="159" alt="image" src="https://github.com/user-attachments/assets/42bc5c7a-6b0c-4179-8301-a45c762c83b2" />
+
 
 ---
 
